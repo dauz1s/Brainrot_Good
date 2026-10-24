@@ -1,2 +1,2 @@
 # Brainrot_Good
-Brainrot_Good
+Hello world
